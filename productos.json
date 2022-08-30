@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"Heladera","price":50000.00, "stock": 2, "code":"1A32LB4", "published": true, "date":"01-01-22"},
+    {"id":2,"name":"Freezer","price":20000, "stock": 3, "code":"1A32LB5", "published": false, "date":"17-01-22"},
+    {"id":3,"name":"Microondas","price":10000, "stock": 1, "code":"1A32LB3", "published": true, "date":"22-01-21"},
+    {"id":4,"name":"Notebook","price":40000, "stock": 4, "code":"1A32LB2", "published": false, "date":"08-01-22"},
+    {"id":5,"name":"Monitor","price":30000, "stock": 2, "code":"1A32LB1", "published": true, "date":"01-08-22"},
+    {"id":6,"name":"Parlantes","price":15000, "stock": 5, "code":"1A32LB0", "published": true, "date":"03-09-22"}
+]
